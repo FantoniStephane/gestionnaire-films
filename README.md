@@ -74,11 +74,12 @@ python main.py
 
 ```
 gestionnaire-films/
-├── main.py          ← programme principal
-├── functions.py     ← fonctions métier
-├── movies.csv       ← base de données films
-├── movies.json      ← export JSON de la collection
-├── stats.json       ← statistiques de la collection
+├── main.py                       ← programme principal
+├── functions.py                  ← fonctions métier
+├── tp_gestionnaire_films.ipynb   ← notebook du TP
+├── movies.csv                    ← base de données films
+├── movies.json                   ← export JSON de la collection
+├── stats.json                    ← statistiques de la collection
 ├── requirements.txt
 ├── .gitignore
 └── README.md
